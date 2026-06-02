@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, my name is Alexander Buhl
 
-<!--
-**buhlalexander07/buhlalexander07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the University of Minnesota interested in web development, software engineering, and UX design.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Java
+- C
+- C++
+- HTML
+- Javascript
+- RStudio
+- x86-64 Assembly
+- Ocaml
+- Figma
+- Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Group and Event Finder Application
+- MapReduce Pipeline
+- mgit — Metadata-Aware Versioning
+- Multi-threaded Matrix Multiplication
+- Multi-threaded EBay-style Marketplace
+- Gradebook System
+- Dynamic Memory Allocator
+
+## Contact
+LinkedIn: www.linkedin.com/in/alexander-buhl-17235b383
