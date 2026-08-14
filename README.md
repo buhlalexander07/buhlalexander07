@@ -14,6 +14,10 @@ Computer Science student at the University of Minnesota interested in web develo
 - Ocaml
 - Figma
 - Excel
+- SQL
+- Lucidchart
+- Beekeeper Studio
+- Microsoft 365 Applications
 
 ## Projects
 - Group and Event Finder Application
