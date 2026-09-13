@@ -21,6 +21,7 @@ Computer Science student at the University of Minnesota interested in web develo
 
 ## Projects
 - Group and Event Finder Application
+- Video Games (Folder)
 - MapReduce Pipeline
 - mgit — Metadata-Aware Versioning
 - Multi-threaded Matrix Multiplication
