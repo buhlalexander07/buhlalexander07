@@ -2,6 +2,9 @@
 
 Computer Science student at the University of Minnesota interested in web development, software engineering, and UX design.
 
+## Band Website
+https://patronofthemoon.com/
+
 ## Skills
 - Python
 - Java
